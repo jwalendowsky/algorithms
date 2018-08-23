@@ -5,9 +5,9 @@
 
 |||
 |:-:|:-:|
-|Milestone| [FRONTEND_2018_CW33-34](https://api.github.com/repos/jwalendowsky/algorithms/milestones/1)|
-|Goal| undefined|
-|Engineers| undefined|
+|Milestone| [FRONTEND_2018_CW33-34](https://github.com/jwalendowsky/algorithms/milestone/1)|
+|Goal| Test the milestone close hook.|
+|Engineers| 3.3|
 |Committed Capacity|4|
 
 ## Issues
