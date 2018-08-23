@@ -14,9 +14,9 @@
 
 |Issue|Status|Complexity|
 |:-:|:-:|:-:|
-|[#3 - A closed Issue with Estimate](https://api.github.com/repos/jwalendowsky/algorithms/issues/3)|closed|1|
-|[#2 - An open issue without Estimates](https://api.github.com/repos/jwalendowsky/algorithms/issues/2)|open|0|
-|[#1 - An Open Issue With Estimation Label](https://api.github.com/repos/jwalendowsky/algorithms/issues/1)|open|3|
+|[#3 - A closed Issue with Estimate](https://github.com/jwalendowsky/algorithms/issues/3)|closed|1|
+|[#2 - An open issue without Estimates](https://github.com/jwalendowsky/algorithms/issues/2)|open|0|
+|[#1 - An Open Issue With Estimation Label](https://github.com/jwalendowsky/algorithms/issues/1)|open|3|
 
 ## Retrospective
 
