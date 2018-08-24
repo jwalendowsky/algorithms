@@ -3,7 +3,7 @@
 
 ## Chart
 
-![alt text](velocity-tracking.jpg "Velocity Tracking Chart")
+[object Promise]
 
 ## Data
 
