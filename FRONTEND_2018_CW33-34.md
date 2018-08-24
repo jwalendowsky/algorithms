@@ -9,8 +9,8 @@
 |Goal| Test the milestone close hook.|
 |Engineers| 3.3|
 |Committed Capacity|undefined|
-|Velocity|[object Object]|
-|Velocity per Engineer|NaN|
+|Velocity|1|
+|Velocity per Engineer|1.21|
 
 ## Issues
 
