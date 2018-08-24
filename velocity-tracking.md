@@ -8,6 +8,5 @@
 ## Data
 
 |Sprint|Engineers|Planned|Achieved|Achieved/Engineer|Achieved/Engineer(MA 3 Weeks)|
-|:-|-:|-:|-:|-:|-:|velocityTrack => 
-    velocityTrack.map(row => `[${row.milestone.title}](${row.milestone.url})|${row.milestone.capacity}|${row.statistics.commited}|${row.statistics.velocity}|${row.statistics.velocityPerEngineer.toFixed(DECIMALS)}||`)
-      .reduce((lines, line) => lines + '\n' + line, '')
+|:-|-:|-:|-:|-:|-:|
+[FRONTEND_2018_CW33-34](https://github.com/jwalendowsky/algorithms/milestone/1)|3.3|undefined|1|0.30||
