@@ -3,7 +3,7 @@
 
 ## Chart
 
-[object Promise]
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600"><g></g></svg>
 
 ## Data
 
