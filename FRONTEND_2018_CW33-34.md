@@ -4,11 +4,11 @@
 ## Summary
 
 |||
-|:-:|:-:|
+|-:|:-:|
 |Milestone| [FRONTEND_2018_CW33-34](https://github.com/jwalendowsky/algorithms/milestone/1)|
 |Goal| Test the milestone close hook.|
 |Engineers| 3.3|
-|Committed Capacity|undefined|
+|Committed Capacity|4|
 |Velocity|1|
 |Velocity per Engineer|1.21|
 
